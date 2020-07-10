@@ -1,0 +1,32 @@
+body{
+    /*background: rgb(7, 103, 116);*/
+    background: white; 
+}
+#naav {
+    margin-bottom: 10px;
+    background: rgb(7, 103, 116);
+}
+
+.thumbnail img{
+    width:100%;
+}
+
+.thumbnail{
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.well{
+    padding: 10px;
+    background:white;
+}
+#delete-form{
+    display: inline;
+}
+#buttons{
+    padding-left: 443px;
+    padding-top: 10px;
+}
